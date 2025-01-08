@@ -1,2 +1,4 @@
-# Samsung-RISCV
-Samsung RISC-V Talent Development Program
+- Name: Shamsul Muzammil 
+- College: Atria Institute of Technology
+- E-mail: shamsulmuzammil@gmail.com
+- Github: Shamsul-Muzammil
